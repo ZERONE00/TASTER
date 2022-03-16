@@ -30,3 +30,6 @@ CUDA_VISIBLE_DEVICES=0 python run_wiki.py \
 ```
 
 Check argparse configuration at src/run_wiki.py (run_icews.py ) for more arguments and more details.
+
+
+
